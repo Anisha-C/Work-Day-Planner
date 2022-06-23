@@ -6,3 +6,12 @@ console.log(currentHour)
 
 var dateEl = $("#currentDay")
 dateEl.text(today)
+
+function currentTime() {
+    var time = new Date().toTimeString()
+
+    var timeEl = $("#time")
+    timeEl.text(time)
+}
+
+setInterval(currentTime, 1000)
