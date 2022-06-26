@@ -7,6 +7,7 @@ The purpose of this application is to act as a planner for a user between the wo
 * HTML
 * CSS
 * Javascript
+* JQuery
 
 ## Website
 ![image](https://user-images.githubusercontent.com/99618409/175796232-64b242be-e192-4420-8e03-a4a9cafefb02.png)
