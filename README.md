@@ -9,7 +9,8 @@ The purpose of this application is to act as a planner for a user between the wo
 * Javascript
 
 ## Website
-![image](https://user-images.githubusercontent.com/99618409/167052235-3b846fb6-04aa-4232-a9ae-6d212ac0bd79.png)
+![image](https://user-images.githubusercontent.com/99618409/175796232-64b242be-e192-4420-8e03-a4a9cafefb02.png)
+
 
 https://anisha-c.github.io/Work-Day-Planner/
 
